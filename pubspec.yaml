@@ -1,0 +1,17 @@
+name: pokemon_battle_helper
+description: 포켓몬 배틀 데미지 계산 도우미 (모바일프로그래밍 개인 프로젝트)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/move_data.json
+    - assets/pokemon_data.json
