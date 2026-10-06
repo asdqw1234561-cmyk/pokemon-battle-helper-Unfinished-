@@ -1,0 +1,417 @@
+[
+  {
+    "name": "피카츄",
+    "type": [
+      "전기"
+    ],
+    "base_stats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "sp_attack": 50,
+      "sp_defense": 50,
+      "speed": 90
+    }
+  },
+  {
+    "name": "리자몽",
+    "type": [
+      "불꽃",
+      "비행"
+    ],
+    "base_stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "sp_attack": 109,
+      "sp_defense": 85,
+      "speed": 100
+    }
+  },
+  {
+    "name": "이상해꽃",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 80
+    }
+  },
+  {
+    "name": "거북왕",
+    "type": [
+      "물"
+    ],
+    "base_stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "sp_attack": 85,
+      "sp_defense": 105,
+      "speed": 78
+    }
+  },
+  {
+    "name": "딩루",
+    "type": [
+      "땅",
+      "악"
+    ],
+    "base_stats": {
+      "hp": 155,
+      "attack": 110,
+      "defense": 125,
+      "sp_attack": 55,
+      "sp_defense": 80,
+      "speed": 45
+    }
+  },
+  {
+    "name": "버드렉스(흑마 탄 모습)",
+    "type": [
+      "고스트",
+      "에스퍼"
+    ],
+    "base_stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 80,
+      "sp_attack": 165,
+      "sp_defense": 100,
+      "speed": 150
+    }
+  },
+  {
+    "name": "버드렉스(백마 탄 모습)",
+    "type": [
+      "얼음",
+      "에스퍼"
+    ],
+    "base_stats": {
+      "hp": 100,
+      "attack": 165,
+      "defense": 150,
+      "sp_attack": 85,
+      "sp_defense": 130,
+      "speed": 50
+    }
+  },
+  {
+    "name": "미라이돈",
+    "type": [
+      "드래곤",
+      "전기"
+    ],
+    "base_stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "sp_attack": 135,
+      "sp_defense": 115,
+      "speed": 135
+    }
+  },
+  {
+    "name": "파오젠",
+    "type": [
+      "얼음",
+      "악"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 80,
+      "sp_attack": 90,
+      "sp_defense": 65,
+      "speed": 135
+    }
+  },
+  {
+    "name": "코라이돈",
+    "type": [
+      "격투",
+      "드래곤"
+    ],
+    "base_stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "sp_attack": 85,
+      "sp_defense": 100,
+      "speed": 135
+    }
+  },
+  {
+    "name": "우라오스",
+    "type": [
+      "격투",
+      "물"
+    ],
+    "base_stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "sp_attack": 63,
+      "sp_defense": 60,
+      "speed": 97
+    }
+  },
+  {
+    "name": "날개치는 머리",
+    "type": [
+      "고스트",
+      "페어리"
+    ],
+    "base_stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 55,
+      "sp_attack": 135,
+      "sp_defense": 135,
+      "speed": 135
+    }
+  },
+  {
+    "name": "코라이돈",
+    "type": [
+      "드래곤",
+      "비행"
+    ],
+    "base_stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 80
+    }
+  },
+  {
+    "name": "자시안(검왕)",
+    "type": [
+      "페어리",
+      "강철"
+    ],
+    "base_stats": {
+      "hp": 92,
+      "attack": 150,
+      "defense": 115,
+      "sp_attack": 80,
+      "sp_defense": 115,
+      "speed": 148
+    }
+  },
+  {
+    "name": "자시안(역전의 용사)",
+    "type": [
+      "페어리"
+    ],
+    "base_stats": {
+      "hp": 92,
+      "attack": 120,
+      "defense": 115,
+      "sp_attack": 80,
+      "sp_defense": 115,
+      "speed": 138
+    }
+  },
+  {
+    "name": "랜드로스(영물폼)",
+    "type": [
+      "땅",
+      "비행"
+    ],
+    "base_stats": {
+      "hp": 89,
+      "attack": 145,
+      "defense": 90,
+      "sp_attack": 105,
+      "sp_defense": 80,
+      "speed": 91
+    }
+  },
+  {
+    "name": "글라이온",
+    "type": [
+      "땅",
+      "비행"
+    ],
+    "base_stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 125,
+      "sp_attack": 45,
+      "sp_defense": 75,
+      "speed": 95
+    }
+  },
+  {
+    "name": "어써러셔",
+    "type": [
+      "물"
+    ],
+    "base_stats": {
+      "hp": 150,
+      "attack": 100,
+      "defense": 115,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 35
+    }
+  },
+  {
+    "name": "칠색조",
+    "type": [
+      "불꽃",
+      "비행"
+    ],
+    "base_stats": {
+      "hp": 106,
+      "attack": 130,
+      "defense": 90,
+      "sp_attack": 110,
+      "sp_defense": 154,
+      "speed": 90
+    }
+  },
+  {
+    "name": "포푸니크",
+    "type": [
+      "격투",
+      "독"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 130,
+      "defense": 60,
+      "sp_attack": 40,
+      "sp_defense": 80,
+      "speed": 120
+    }
+  },
+  {
+    "name": "칼라플로르",
+    "type": [
+      "바위",
+      "독"
+    ],
+    "base_stats": {
+      "hp": 83,
+      "attack": 55,
+      "defense": 90,
+      "sp_attack": 130,
+      "sp_defense": 81,
+      "speed": 86
+    }
+  },
+  {
+    "name": "가이오가",
+    "type": [
+      "물"
+    ],
+    "base_stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 90,
+      "sp_attack": 150,
+      "sp_defense": 140,
+      "speed": 90
+    }
+  },
+  {
+    "name": "따라큐",
+    "type": [
+      "고스트",
+      "페어리"
+    ],
+    "base_stats": {
+      "hp": 55,
+      "attack": 90,
+      "defense": 80,
+      "sp_attack": 50,
+      "sp_defense": 105,
+      "speed": 96
+    }
+  },
+  {
+    "name": "오거폰(벽록의 가면)",
+    "type": [
+      "풀"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "sp_attack": 60,
+      "sp_defense": 96,
+      "speed": 110
+    }
+  },
+  {
+    "name": "오거폰(우물의 가면)",
+    "type": [
+      "풀",
+      "물"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "sp_attack": 60,
+      "sp_defense": 96,
+      "speed": 110
+    }
+  },
+  {
+    "name": "오거폰(화덕의 가면)",
+    "type": [
+      "풀",
+      "불꽃"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "sp_attack": 60,
+      "sp_defense": 96,
+      "speed": 110
+    }
+  },
+  {
+    "name": "오거폰(주춧돌의 가면)",
+    "type": [
+      "풀",
+      "바위"
+    ],
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "sp_attack": 60,
+      "sp_defense": 96,
+      "speed": 110
+    }
+  },
+  {
+    "name": "다투곰-붉은 달",
+    "type": [
+      "땅",
+      "노말"
+    ],
+    "base_stats": {
+      "hp": 113,
+      "attack": 70,
+      "defense": 120,
+      "sp_attack": 135,
+      "sp_defense": 65,
+      "speed": 52
+    }
+  }
+
+]
